@@ -4,8 +4,8 @@ Repositorio de una página web publicada con **GitHub Pages** que centraliza apu
 ## 🌐 Demo
 👉 https://Samuel-M-I.github.io/Cicuitos-AC/
 ## Apuntes
-- [Apunte 1](https://Samuel-M-I.github.io/Cicuitos-AC/Apuntes%21.pdf)
-- [Apunte 2](https://Samuel-M-I.github.io/Cicuitos-AC/Apuntes%22.pdf)
+- [Apunte 1](https://Samuel-M-I.github.io/Circuitos-AC/Apuntes%201.pdf)
+- [Apunte 2](https://Samuel-M-I.github.io/Circuitos-AC/Apuntes%202.pdf)
 
 
 ## 📌 Contenido
